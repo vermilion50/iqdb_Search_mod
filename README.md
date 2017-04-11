@@ -3,9 +3,11 @@
 
 Оригинальное расширение: https://chrome.google.com/webstore/detail/iqdb-search/fhmkkillhmfiafcinogljcfebgcalnmc
 
+
+
 Как ставить:
 
-1)Скачиваем последнюю версию https://github.com/vermilion50/iqdb_Search_mod/releases и разорхивируем архив в любую папку.
+1)Скачиваем последнюю версию https://github.com/vermilion50/iqdb_Search_mod/releases и разархивируем архив в любую папку.
 
 2)Заходим в хроме "Настройки->Расширения".
 
