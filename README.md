@@ -7,7 +7,7 @@
 
 Как ставить:
 
-1)Скачиваем последнюю версию https://github.com/vermilion50/iqdb_Search_mod/releases и разархивируем архив в любую папку.
+1)Скачиваем последнюю версию https://github.com/vermilion50/iqdb_Search_mod/releases и разархивируем архивы в любую папку.
 
 2)Заходим в хроме "Настройки->Расширения".
 
